@@ -3,12 +3,12 @@
 作业一：三角形测试用例自动生成工具  
 作业二：三角形路径测试    
 作业三：性能测试工具  
-作业四：“记事本”应用软件测试计划
+作业四：“记事本”应用软件测试计划  
 keywords：三角形测试用例、三角形路径测试、性能测试工具、记事本、测试计划
 
 ## 写在前面：
-1、如果需要作业细节，请联系作者获取。
-2、作者联系方式：
+1、如果需要作业细节，请联系作者获取。  
+2、作者联系方式：  
 ![image](https://github.com/MIKUOOHASHI/IntelligentSoftwareTesting/blob/master/all_needed_images/Hello.png)
 3、添加作者请备注来源(github)
 
@@ -32,14 +32,15 @@ keywords：三角形测试用例、三角形路径测试、性能测试工具、
 三角形测试用例自动生成器软件总共划分为五个功能模块。分别是菜单栏模块、三角形边长取值范围模块、用例生成方式选择模块、测试用例结果显示模块、按钮模块，如图。  
 ![image](https://github.com/MIKUOOHASHI/IntelligentSoftwareTesting/blob/master/all_needed_images/3.png)
 
-将输出数据保存为.xls
+将输出数据保存为.xls  
 ![image](https://github.com/MIKUOOHASHI/IntelligentSoftwareTesting/blob/master/all_needed_images/5.png)
 
-菜单栏模块细节
+
+菜单栏模块细节  
 ![image](https://github.com/MIKUOOHASHI/IntelligentSoftwareTesting/blob/master/all_needed_images/6.png)
 
-运行程序
-为了方便用户不使用代码行运行程序，已将jar文件转换为exe文件，双击“triangleTestCaseTool.exe“文件即可运行，如图
+运行程序  
+为了方便用户不使用代码行运行程序，已将jar文件转换为exe文件，双击“triangleTestCaseTool.exe“文件即可运行，如图  
 ![image](https://github.com/MIKUOOHASHI/IntelligentSoftwareTesting/blob/master/all_needed_images/7.png)
 
 ......
@@ -53,7 +54,7 @@ keywords：三角形测试用例、三角形路径测试、性能测试工具、
 
 ### 实现细节：
 一、编程环境和开发语言  
-1、开发环境：Visual C++  6.0
+1、开发环境：Visual C++  6.0  
 2、使用语言：C++  
 3、可运行的环境：任意平台  
 
