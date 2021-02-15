@@ -4,12 +4,14 @@
 作业二：三角形路径测试    
 作业三：性能测试工具  
 作业四：“记事本”应用软件测试计划  
+
 keywords：三角形测试用例、三角形路径测试、性能测试工具、记事本、测试计划
 
 ## 写在前面：
 1、如果需要作业细节，请联系作者获取。  
-2、作者联系方式：  
+2、作者联系方式(WeChat)：  
 ![image](https://github.com/MIKUOOHASHI/IntelligentSoftwareTesting/blob/master/all_needed_images/Hello.png)
+
 3、添加作者请备注来源(github)
 
 ---------------------------------
