@@ -7,9 +7,7 @@
 
 ## 写在前面：
 1、如果需要作业细节，请联系作者获取。  
-2、作者联系方式(WeChat)：  
-![image](https://github.com/MIKUOOHASHI/IntelligentSoftwareTesting/blob/master/all_needed_images/Hello.png)
-
+2、作者联系方式(WeChat)：[联系作者](https://github.com/MIKUOOHASHI/IntelligentSoftwareTesting/blob/master/all_needed_images/contact-author.py)  
 3、添加作者请备注来源(github)
 
 ---------------------------------
